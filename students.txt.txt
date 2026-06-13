@@ -1,0 +1,14 @@
+1BM22CS001,Anjali jewargi,CSE,4,Global Institute of Technology,88
+1BM22CS002,Akash Sangme,CSE,4,Global Institute of Technology,91
+1BM22EC003,Vinaya Marma,ECE,4,Global Institute of Technology,76
+1BM22ME004,Chitra Singh,ME,4,Global Institute of Technology,95
+1BM22CS005,Aditya Rao,CSE,4,Global Institute of Technology,82
+1BM22IS006,Ananya Patel,ISE,4,Global Institute of Technology,89
+1BM22EC007,Krishna Verma ,ECE,4,Global Institute of Technology,78
+1BM22CS008,Saanvi Gupta,CSE,4,Global Institute of Technology,93
+1BM22ME009,Rudra Nair,ME,4,Global Institute of Technology,85
+1BM22IS010,Shrushti Mulge,ISE,4,Global Institute of Technology,87
+1BM22CS011,Ashwini Patil,CSE,4,Global Institute of Technology,80
+1BM22EC012,Kiara Kulkarni,ECE,4,Global Institute of Technology,94
+1BM22ME013,Yash Malhotra,ME,4,Global Institute of Technology,77
+1BM22IS014,Pushpa,ISE,4,Global Institute of Technology,90
